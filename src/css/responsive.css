@@ -1,0 +1,160 @@
+@media only screen and (min-width: 480px){
+
+  /***** REGION *****/
+  .comida {
+    width: 350px;
+    margin: auto;
+  }
+
+  #banner {
+    height: 400px;
+  }
+
+}
+
+
+@media only screen and (min-width: 580px){
+
+  /***** HOME *****/
+
+  .local {
+    width: 480px;
+	justify-self: center;
+  } 
+
+  /***** REGION *****/
+  .comidas {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .comida {
+    width: 250px;
+    margin: auto;
+  }
+  
+}
+
+@media only screen and (min-width: 680px){
+
+
+  .tiempo {
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+
+  /***** HOME *****/
+
+  .presentacion__txt {
+    margin: 0 50px;
+  }
+
+  .presentacion__img {
+    width: 500px;
+  }
+
+}
+
+
+@media only screen and (min-width: 900px){
+
+  .nav {
+    display: block;
+    top: 0;
+  }
+    
+  .nav__lista {
+    flex-direction: row;
+    justify-content: center;
+  }  
+
+  .nav__item {
+    width: auto;
+  }
+
+  .btnNav-container {
+    display: none;
+  }
+
+  /***** HOME *****/
+
+  .local {
+    grid-column: span 1;
+    width: 400px;
+  }
+
+  .presentacion {
+    margin: 0 30px 15px;
+  }
+
+  .presentacion__img {
+    grid-column: 1/2;
+  }
+
+  .presentacion__descr {
+    grid-column: 2/4;
+  }  
+
+  .presentacion__txt {
+    margin: 15px 0;
+  }
+
+  /***** REGION *****/
+  .comidas {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  /***** COMIDA *****/
+  .info-comida__comida {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .info-comida__img {
+	width: 400px;
+	height: 300px;
+  }
+
+  .info-comida__div {
+    align-self: center;
+    display: grid;
+    gap: 20px;
+    margin-left: 3em;
+  }
+
+  .info-comida__subtitulo {
+      justify-self: start;
+  }
+
+  /**** HOME ****/
+  #banner {
+    height: 450px;
+  }
+
+  .presentacion {
+     margin-top: 1em;
+     margin-bottom: 1.5em;
+  }
+
+}
+
+
+@media only screen and (min-width: 1110px){
+  
+  /***** HOME *****/
+
+  .local {
+    width: 500px;
+    margin: auto;
+  }
+
+  .locales {
+    gap: 20px 0;
+    padding-bottom: 1.5em;
+  }
+
+  /***** REGION *****/
+  .comida {
+    width: 300px;
+  }
+
+}

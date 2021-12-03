@@ -1,0 +1,98 @@
+{
+  "costa" : [
+    {
+      "nombre" : "Causa de pollo",
+      "url": "/comidas/causa-de-pollo", 
+      "imagen" : "/images/costa/causa1.jpg"
+    },
+    {
+      "nombre" : "Arroz con pollo",
+      "url" : "/comidas/arroz-con-pollo", 
+      "imagen" : "/images/costa/arroz1.jpg"
+    },
+    {
+      "nombre" : "Pollo a la brasa",
+      "url" : "/comidas/pollo-a-la-brasa", 
+      "imagen" : "/images/costa/brasa1.jpg"
+    },
+    {
+      "nombre" : "Ceviche de pescado",
+      "url" : "/comidas/ceviche-de-pescado", 
+      "imagen" : "/images/costa/ceviche1.jpg"
+    },
+    {
+      "nombre" : "Pescado frito",
+      "url" : "/comidas/pescado-frito", 
+      "imagen" : "/images/costa/pesc1.jpg"
+    },
+    {
+      "nombre" : "Chaufa de pollo",
+      "url" : "/comidas/chaufa-de-pollo", 
+      "imagen" : "/images/costa/chaufa1.jpg"
+    }
+  ],
+  "sierra": [
+    {
+      "nombre" : "Pachamanca",
+      "url" : "/comidas/pachamanca", 
+      "imagen" : "/images/sierra/pach1.jpg"
+    },
+    {
+      "nombre" : "Cuy chactado",
+      "url" : "/comidas/cuy-chactado", 
+      "imagen" : "/images/sierra/cuy1.jpg"
+    },
+    {
+      "nombre" : "Shambar",
+      "url" : "/comidas/shambar", 
+      "imagen" : "/images/sierra/sham1.jpg"
+    },
+    {
+      "nombre" : "Ocopa",
+      "url" : "/comidas/ocopa", 
+      "imagen" : "/images/sierra/ocopa1.jpg"
+    },
+    {
+      "nombre" : "Rocoto relleno",
+      "url" : "/comidas/rocoto-relleno", 
+      "imagen" : "/images/sierra/rocoto1.jpg"
+    },
+    {
+      "nombre" : "Papa a la huancaina",
+      "url" : "/comidas/papa-a-la-huancaina", 
+      "imagen" : "/images/sierra/papa1.jpg"
+    }
+  ],
+  "selva": [
+    {
+      "nombre" : "Juane",
+      "url" : "/comidas/juane", 
+      "imagen" : "/images/selva/juane1.jpg"
+    },
+    {
+      "nombre" : "Anticucho de Suri",
+      "url" : "/comidas/anticucho-de-suri", 
+      "imagen" : "/images/selva/suri1.jpg"
+    },
+    {
+      "nombre" : "Tacacho con cecina",
+      "url" : "/comidas/tacacho-con-cecina", 
+      "imagen" : "/images/selva/tacacho1.jpg"
+    },
+    {
+      "nombre" : "Chaufa amazonica",
+      "url" : "/comidas/chaufa-amazonica", 
+      "imagen" : "/images/selva/amazonico1.jpg"
+    },
+    {
+      "nombre" : "Inchicapi con gallina",
+      "url" : "/comidas/inchicapi-con-gallina", 
+      "imagen" : "/images/selva/inchicapi1.jpg"
+    },
+    {
+      "nombre" : "Humitas",
+      "url" : "/comidas/humitas", 
+      "imagen" : "/images/selva/humitas1.jpg"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+.region {
+	padding: 1.5em;
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+	background-color: var(--bg-primary-color);
+}
+
+.region__titulo {
+	text-align: center;
+	font-size: 28px;
+}
+
+.region__p {
+	margin: 0 2em;
+}
+
+.comidas {
+	padding: 1.5em;
+	background-color: var(--white-second-color);
+	color: #000;
+	display: grid;
+	gap: 20px;
+}
+
+/* hidden for the seo*/
+.comidas__titulo {
+	position: absolute;	
+	top: -9999px;
+	left: -9999px;
+}
+
+.comida {
+	display: flex;
+	flex-direction: column-reverse;
+	align-items: center;
+	gap: 15px;
+}
+
+.comida__nombre {
+	font-size: 25px;
+	color: var(--bg-primary-color);
+}
+
+.comida__img {
+	border-radius: 10px;
+	height: 170px;
+	width: 300px;
+	object-fit: fill;
+	transition: transform .5s;
+	box-shadow: 2px 2px 8px 8px var(--bg-primary-color);
+}
+
+.comida__img:hover {
+	transform: scale(1.10);
+}

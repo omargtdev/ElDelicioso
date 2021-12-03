@@ -1,0 +1,508 @@
+[
+  {
+    "nombre" : "causa-de-pollo",
+    "imagen" : "/images/costa/causa2.jpg",
+    "titulo" : "Causa de Pollo",
+    "descripcion" : "Es un plato típico de América Latina y España con variaciones regionales según el país. Consiste en arroz cocinado con pollo, en presas o desmechado, verduras (ají pimentón, zanahoria en cubos, apio, habichuelas, cebolla, maíz desgranado, aceitunas, arvejas, alcaparras), y sazonado con especias (laurel, tomillo, cilantro, ajo)",
+    "ingredientes" : [
+      "2 cucharadas de aceite",
+      "6 encuentros de pollo",
+      "1/2 taza de cebolla picada",
+      "1 cucharada de ajo picado",
+      "1/4 cucharadita de comino",
+      "1/4 taza de aji amarillo molido",
+      "1 taza de culantro licuado",
+      "1/2 taza de ajies de amarallios sin vena ni pepas, en tiras",
+      "3 tazas de arroz",
+      "4 tazas de caldo de pollo o de verduras",
+      "1/2 taza de alverjas",
+      "3/4 taza de salsa criolla",
+      "Sal y pimienta"
+    ],
+    "preparacion" : [
+      "Caliente el aceite en una olla, a fuego medio, y fría los encuentros de pollo, previamente sazonados con sal y pimienta, durante cuatro minutos por cada lado. Retírelos y reserve.",
+      "En la misma olla, dore la cebolla, el ajo y el comino durante dos minutos. Agregue el ají amarillo molido y el culantro, y deje cocinar durante seis minutos aproximadamente, hasta que el aceite se separe del aderezo.",
+      "Incorpore el pollo y el ají amarillo en tiras. Agregue el arroz, las alverjas y el caldo o cuatro tazas de agua. Remueva hasta integrar los ingredientes.",
+      "Cuando rompa el hervor tape la olla y deje cocinar a fuego bajo durante 20 minutos. Remueva y retire del fuego.",
+      "Deje reposar tapado durante 10 minutos. Sirva y acompañe con la salsa criolla."
+    ],
+    "region" : "costa"
+  },
+  {
+    "nombre" : "arroz-con-pollo",
+    "imagen" : "/images/costa/arroz2.jpg",
+    "titulo" : "Arroz con Pollo",
+    "descripcion" : "Es un plato típico de América Latina y España 1​ con variaciones regionales según el país. Consiste en arroz cocinado con pollo, en presas o desmechado, verduras (ají pimentón, zanahoria en cubos, apio, habichuelas, cebolla, maíz desgranado, aceitunas, arvejas, alcaparras), y sazonado con especias laurel, tomillo, cilantro, ajo)",
+    "ingredientes" : [
+      "2 cucharadas de aceite",
+      "6 encuentros de pollo",
+      "1/2 taza de cebolla picada",
+      "1 cucharada de ajo picado",
+      "1/4 cucharadita de comino",
+      "1/4 taza de aji amarillo molido",
+      "1 taza de culantro licuado",
+      "1/2 taza de ajies de amarallios sin vena ni pepas, en tiras",
+      "3 tazas de arroz",
+      "4 tazas de caldo de pollo o de verduras",
+      "1/2 taza de alverjas",
+      "3/4 taza de salsa criolla",
+      "Sal y pimienta"
+    ],
+    "preparacion" : [
+      "Caliente el aceite en una olla, a fuego medio, y fría los encuentros de pollo, previamente sazonados con sal y pimienta, durante cuatro minutos por cada lado. Retírelos y reserve.",
+      "En la misma olla, dore la cebolla, el ajo y el comino durante dos minutos. Agregue el ají amarillo molido y el culantro, y deje cocinar durante seis minutos aproximadamente, hasta que el aceite se separe del aderezo.",
+      "Incorpore el pollo y el ají amarillo en tiras. Agregue el arroz, las alverjas y el caldo o cuatro tazas de agua. Remueva hasta integrar los ingredientes.",
+      "Cuando rompa el hervor tape la olla y deje cocinar a fuego bajo durante 20 minutos. Remueva y retire del fuego.",
+      "Deje reposar tapado durante 10 minutos. Sirva y acompañe con la salsa criolla."
+    ],
+    "region" : "costa"
+  },
+  {
+    "nombre" : "pollo-a-la-brasa",
+    "imagen" : "/images/costa/brasa2.jpg",
+    "titulo" : "Pollo a la brasa",
+    "descripcion" : "Del pollo a la brasa se puede decir que es uno de los platos más populares de la gastronomía peruana. No existe peruano que no haya ido a la pollería (lugar especializado en su preparación y venta) más cercana para degustar de esta especialidad culinaria. Suele consumirse, sobre todo como plato principal acompañado de papas fritas y ensalada.",
+    "ingredientes" : [
+      "1 pollo entero sin visceras",
+      "2 cucharadas soperas de sal",
+      "1 cucharadita de comino",
+      "1 cucharadita de pimienta",
+      "2 cucharadas de vinagre blanco",
+      "1 taza de cerveza negra",
+      "1 cucharada de organo seco",
+      "2 cucharadas de ajo molido",
+      "1 cucharada de aji panca molido",
+      "1 cucharada de romero seco",
+      "2 cucharadas de sillao"
+    ],
+    "preparacion" : [
+      "En un recipiente del tamaño suficiente coloca todos los ingredientes para realizar la marinada. Vierte el vinagre, la cerveza, el orégano, el romero, el ají panca, el ajo molido, el comino, la pimienta, el sillao y la sal. Mezcla todo muy bien para integrar muy bien los ingredientes.",
+      "Lava muy bien el pollo y retira los restos de grasa o plumas que pudiera tener.",
+      "Sumerge el pollo en la marinada y báñalo con esta por dentro y por fuera, con ayuda de tus dedos separa la piel de la carne para también poner un poco de la mezcla al interior.",
+      "Déjalo macerar en el refrigerador por al menos 2 horas, aunque lo ideal es 12 horas. Es por eso que es recomendable hacer este proceso la noche anterior.",
+      "Al otro día o pasado el tiempo requerido es momento de colocar el pollo en una bandeja y llevarlo al horno a 180°C por aproximadamente 1 hora y media. A mitad de cocción es recomendable darle vuelta y cuando falten 10 minutos volver a colocarlo en la posición inicial.",
+      "Verifica que esté dorado por todos lados y bien cocido. De ser así, retira y sirve el pollo entero o trozado en presas. Se suele acompañar con papas fritas y ensalada fresca."
+    ],
+    "region" : "costa"
+  },
+  {
+    "nombre" : "ceviche-de-pescado",
+    "imagen" : "/images/costa/ceviche2.jpg",
+    "titulo" : "Cheviche de pescado",
+    "descripcion" : "Platillo preparado con pescado crudo marinado en jugo de limón y condimentado con otros ingredientes que varían según la región. En muchos países latinoamericanos, el ceviche forma parte de la cultura gastronómica, incluso en Perú es considerado patrimonio cultural.",
+    "ingredientes" : [
+      "800 g de filete de pescado",
+      "1 cebolla roja picada a la pluma",
+      "1/2 ají limo picado",
+      "1 cda. de culantro picado",
+      "1/4 cucharadita de comino",
+      "1/4 taza de aji amarillo molido",
+      "1 taza de culantro licuado",
+      "Jugo de 6 limones",
+      "1 camote sancochado",
+      "1 choclo desgranado",
+      "Hojas de lechuga fresca",
+      "Sal al gusto"
+    ],
+    "preparacion" : [
+      "Lavar el pescado y cortarlo en cubos de 1 a 2 cm de diámetro. Sazonar con sal y reservar.",
+      "Colocar los cubos de pescado en un recipiente y agregar el jugo de limón recién exprimido. El jugo debe cubrir todo el pescado.",
+      "Incorporar el culantro, cebolla, ají limo, Ajo Siba.",
+      "Mezclar bien los ingredientes y dejar reposar por unos 5 minutos aproximadamente para que los sabores se integren.",
+      "Servir inmediatamente sobre un plato, colocar el Ceviche al centro y decorar el plato con una hoja de lechuga, trozos de camote y choclo. Si desea también puede acompañar con canchita serrana."
+    ],
+    "region" : "costa"
+  },
+  {
+    "nombre" : "pescado-frito",
+    "imagen" : "/images/costa/pesc3.jpg",
+    "titulo" : "Pescado Frito",
+    "descripcion" : "Platillo preparado con pescado crudo marinado en jugo de limón y condimentado con otros ingredientes que varían según la región. En muchos países latinoamericanos, el ceviche forma parte de la cultura gastronómica, incluso en Perú es considerado patrimonio cultural.",
+    "ingredientes" : [
+      "2 huevos",
+      "1/2 taza de agua",
+      "1 taza de harina",
+      "1 cucharadita de sal",
+      "1 cucharadita de aceite",
+      "1/2 kg de bifes o postas de pescado"
+    ],
+    "preparacion" : [
+      "Batir 2 huevos y agregar 1/2 taza de agua.",
+      "Mezclar y agregar 1 taza de harina y 1 cucharadita de sal. Agregar batiendo 1 cucharadita de aceite.",
+      "Pasar por esta mezcla el 1/2 kg de bifes o postas de pescado.",
+      "Freír en aceite caliente. Escurrir sobre papel absorbente y ¡listo!",
+      "Servir con arroz o papas y ensalada"
+    ],
+    "region" : "costa"
+  },
+  {
+    "nombre" : "chaufa-de-pollo",
+    "imagen" : "/images/costa/chaufa2.jpg",
+    "titulo" : "Chaufa de Pollo",
+    "descripcion" : "El Arroz Chaufa sin duda debe de ser uno de los platos más consumidos por los peruanos. Este plato, es una de las tantas fusiones y probablemente el más conocido de la cocina china-peruana. En casa nunca me falla, muchas veces me ha sacado de algún apuro. Es rápido de preparar, los ingredientes son de bajo costo y es súper rendidor.",
+    "ingredientes" : [
+      "4 huevos",
+      "1 pechuga de pollo",
+      "1 paquete de hot-dog salchicha",
+      "2 cucharadas de kion picado jengibre",
+      "2 cucharaditas de ajo picado",
+      "½ taza de pimiento picado",
+      "4 tazas de arroz",
+      "½ taza de sillao (salsa de soja)",
+      "¼ taza de aceite de ajonjolí de preferencia",
+      "1 taza de cebolla china picada",
+      "Aceite",
+      "Sal al gusto"
+    ],
+    "preparacion" : [
+      "Bate los huevos en un bol y fríelos de manera que termine en una tortilla. Córtala en pequeños cuadritos y déjala a un costado para mezclarlo luego con el arroz.",
+      "Prepara el arroz como acostumbras hacerlo y déjalo también a un lado.",
+      "En una sartén grande con un poco de aceite a fuego intermedio saltea la pechuga de pollo sazonada con sal y cortada en pequeños cuadrados, luego de que ya esté listo el pollo agrega el hot dog picado en rodajas.",
+      "Agrega el kion y ajo, dora esto durante unos segundos.",
+      "Incorpora el pimiento y el arroz. Mezcla y saltea.",
+      "Vierte el sillao y el aceite de ajonjolí. Saltea nuevamente hasta que el arroz esté ahumado.",
+      "Finalmente, añade la tortilla picada en trozos y la cebolla china. Saltea y sirve."
+    ],
+    "region" : "costa"
+  },
+  {
+    "nombre" : "pachamanca",
+    "imagen" : "/images/sierra/pach2.jpg",
+    "titulo" : "Pachamanca",
+    "descripcion" : "Este plato tradicional de los andes del Perú, proviene del quechua. 'Pacha', que significa tierra o suelo, y 'manca' que significa olla, es decir 'Olla de tierra'.",
+    "ingredientes" : [
+      "½ taza de hojas de huacatay (50 gr)",
+      "½ taza de hojas de culantro (50 gr)",
+      "½ taza de hojas de chincho (50 gr)",
+      "5 dientes de ajo (10 gr)",
+      "¼ de taza de aceite Cocinero (55 ml)",
+      "3 ajíes verdes licuados con aceite Cocinero y sal (300 gr)",
+      "4 presas de pollo",
+      "4-6 papas yungay (900 gr)",
+      "1 taza de vinagre (250 ml)",
+      "1 kg de habas con cáscara",
+      "1 taza de chicha de jora (250 ml)",
+      "3 camotes (450 gr)"
+    ],
+    "preparacion" : [
+      "Macera las carnes en un tazón con el ají licuado y el vinagre durante ½ hora.",
+      "Licúa el huacatay, el culantro, el chincho y los ajos con el aceite..",
+      "Luego, fríe el preparado anterior en una olla grande y acomoda encima las carnes maceradas. Tapa la olla hasta que dé un hervor.",
+      "Incorpora las papas enteras, las habas (se les retira la punta y las hebras gruesas del costado), y la chicha de jora. Cocinar a fuego lento para que la preparación quede bien jugosa. Verifica la sazón con sal y pimienta",
+      "Cocina en ollas individuales los camotes enteros y los choclos. Si la olla es lo suficientemente grande, se podrán cocinar los camotes y los choclos junto con el resto de la pachamanca.",
+      "Sirve cada tipo de carne en el plato junto con la papa, choclo, camote y habas. Acompaña con sarsa criolla."
+    ],
+    "region" : "sierra"
+  },
+  {
+    "nombre" : "cuy-chactado",
+    "imagen" : "/images/sierra/cuy2.jpg",
+    "titulo" : "Cuy Chactado",
+    "descripcion" : "El Cuy Chactado es un exotico plato típico, originado en la región de Cajamarca y popularizado en Arequipa. Esta entrada lleva como base el cuy, un animal extendido en el mundo que es particularmente común en el Perú",
+    "ingredientes" : [
+      "1 cuy entero eviscerado",
+      "1 taza de chicha de jora",
+      "1/4 de taza de ají panca molido",
+      "1 cucharadita de orégano",
+      "1 cucharadita de hierbabuena picada",
+      "1 limón",
+      "Sal al gusto",
+      "1 taza de aceite"
+    ],
+    "preparacion" : [
+      "Para comenzar, mezcla en un bowl la chicha de jora, ají panca molido, sal, orégano, el zumo del limón, y la hierbabuena picada. Con esto obtendrás un delicioso aderezo",
+      "Introduce el cuy en el bowl y déjalo macerar en esta preparación por, al menos, dos horas.",
+      "Posteriormente, caliente en una olla o sartén grande la taza de aceite. Lleva a freir el cuy cuando la temperatura esté muy elevada.",
+      "Cocina hasta que dore por ambos lados.El cuy debe freírse extendido para que la cocción sea uniforme y se obtenga esa textura tan crocante.",
+      "Retira del sartén y listo."
+    ],
+    "region" : "sierra"
+  },
+  {
+    "nombre" : "shambar",
+    "imagen" : "/images/sierra/sham2.jpg",
+    "titulo" : "Shambar",
+    "descripcion" : "Este exquisito platillo es tradicional y originario de Trujillo, específicamente de la zona de La Libertad. Esta rica sopa es llamada 'Shambar de los lunes', pues se acostumbra su consumo a inicios de semana en muchos de los restaurantes de Perú, y de allí proviene su nombre coloquial.",
+    "ingredientes" : [
+      "250 gramos de malaya de res",
+      "200 gramos de jamón serrano",
+      "100 gramos de rabo de cerdo ahumado",
+      "1 pieza de gallina",
+      "50 gramos de pellejo de cerdo",
+      "1/2 taza de trigo shambar",
+      "1/2 taza de sarandaja",
+      "1/4 de taza de arvejas partidas",
+      "1/2 taza de habas",
+      "1/2 taza de frejoles",
+      "1 cebolla picada en cuadros",
+      "1 cucharada de ají panca molido",
+      "1 cucharada de ají mirasol",
+      "1 cucharada de ajos molidos",
+      "2 cucharadas de culantro picado",
+      "Comino al gusto",
+      "Sal y pimienta al gusto",
+      "Aceite"
+    ],
+    "preparacion" : [
+      "Sala el pellejo de cerdo y la malaya desde la noche anterior.",
+      "Ahora, en una olla grande sancocha con agua y sal por unos 25 o 30 minutos el pellejo, el rabo de cerdo, el jamón, la malaya y la gallina.",
+      "Por otro lado, cocina los frejoles, las arvejas, la sarandaja, las habas y el trigo shambar. Reservar.",
+      "Ahora adereza las carnes con la cebolla, el ajo molido, comino, el ají mirasol y el ají panca molido.",
+      "Seguidamente, echa las carnes y el caldo, las arvejas, los frejoles, las habas, la sarandaja y el trigo shambar. Remueve y cocina por 5 minutos todo junto.",
+      "Servir y espolvorear el culantro picado."
+    ],
+    "region" : "sierra"
+  },
+  {
+    "nombre" : "ocopa",
+    "imagen" : "/images/sierra/ocopa2.jpg",
+    "titulo" : "Ocopa",
+    "descripcion" : "La ocopa es una de las cremas más favoritas de todo peruano puesto que su la infinidad de combinaciones que puedes usar para disfrutarla hace que sea tan popular en la cocina peruana",
+    "ingredientes" : [
+      "10 ajíes mirasol tostados",
+      "½ cebolla roja picada",
+      "Un diente de ajo",
+      "Huacatay cocido",
+      "un chorro de Aceite",
+      "un chorro de agua",
+      "¼ de maní tostado",
+      "Galleta de vainilla",
+      "Queso fresco",
+      "Sal",
+      "Un chorro de leche"
+    ],
+    "preparacion" : [
+      "En un batán de piedra o en la licuadora colocamos 10 ajíes mirasol tostados, ½ cebolla roja picada , un diente de ajo y una rama de huacatay cocido.",
+      "Mientras se sigue licuando o moliendo añadimos  un chorro de aceite y uno de agua.",
+      "Mientras se muele o licua también añadimos ¼ de taza maní tostado y ½ docena galleta de vainilla.",
+      "Seguimos licuando o moliendo y según se espese añadimos más agua o aceite.",
+      "Agregamos 2 tazas de queso fresco y probamos la sal.",
+      "Por ultimo, se echa dependiendo su espesor un chorro de leche o aceite según al gusto."
+    ],
+    "region" : "sierra"
+  },
+  {
+    "nombre" : "rocoto-relleno",
+    "imagen" : "/images/sierra/rocoto2.jpg",
+    "titulo" : "Rocoto Relleno",
+    "descripcion" : "Los rocotos son unos chiles peruanos originarios de la región andina de Arequipa. A simple vista, parecen unos inocentes pimientos pero son ¡muy picantes! El plato que lleva su nombre es delicioso y aunque no lo creas, casi no pica",
+    "ingredientes" : [
+      "8 rocotos medianos",
+      "1/4 taza + 1 cucharadita de azúcar",
+      "1/4 taza de aceite vegetal",
+      "4 cucharadas de ají panca",
+      "1 lb de lomo, finamente picado (o carne molida)",
+      "2 hojas de laurel",
+      "1 lb de cebolla, finamente picada",
+      "2 cucharadas de maní, tostado y molido",
+      "1/2 cucharadita de orégano seco",
+      "8 aceitunas negras sin semilla",
+      "2 huevos duros, picados gruesos",
+      "1 cucharada de perejil picado",
+      "3 huevos",
+      "2 cucharadas de pasas negras",
+      "8 tajadas de queso fresco"
+    ],
+    "preparacion" : [
+      "Corta la tapita superior de cada rocoto, descartando las semillas y las venas. Reserva las tapitas. Puedes hacer esto usando guantes para protegerte las manos. No te toques los ojos o la cara.",
+      "Pon los rocotos en una olla con agua helada y una cucharada de azúcar.Enciende el fuego y lleva a ebullición. Apenas hierva el agua, apaga el fuego y escurre. Repite la operación 3 veces cambiando el agua y agregando azúcar. Escurre bien los rocotos y reserva.",
+      "Mientras tanto, calienta el aceite en una sartén sobre fuego medio-alto. Añade el ají panca y fríe bien. Incorpora la carne picadita y las hojas de laurel.Agrega la cebolla, 1 cucharadita de azúcar, salpimienta al gusto, revuelve bien y apaga el fuego. Añade el maní,el orégano, las aceitunas, los huevos duros, el perejil y las pasas.",
+      "Precalienta el horno a 350°F.",
+      "Rellena los rocotos con la mezcla de carne y acomódalos en un molde cuadrado o rectangular. Encima de cada uno pon un trocito de queso y cubre con las tapitas reservadas.",
+      "Aparte bate los huevos con la leche evaporada, sal y pimienta, y vierte sobre los rocotos rellenos. Hornea por 20 minutos.",
+      "Sirve y a disfrutar."
+    ],
+    "region" : "sierra"
+  },
+  {
+    "nombre" : "papa-a-la-huancaina",
+    "imagen" : "/images/sierra/papa2.jpg",
+    "titulo" : "Papa a la huancaina",
+    "descripcion" : "Los rocotos son unos chiles peruanos originarios de la región andina de Arequipa. A simple vista, parecen unos inocentes pimientos pero son muy picantes! El plato que lleva su nombre es delicioso y aunque no lo creas, casi no pica",
+    "ingredientes" : [
+      "4 huevos",
+      "1 pechuga de pollo",
+      "1 paquete de hot-dog salchicha",
+      "2 cucharadas de kion picado jengibre",
+      "2 cucharaditas de ajo picado",
+      "½ taza de pimiento picado",
+      "4 tazas de arroz",
+      "½ taza de sillao (salsa de soja)",
+      "¼ taza de aceite de ajonjolí de preferencia",
+      "1 taza de cebolla china picada",
+      "Aceite",
+      "Sal al gusto"
+    ],
+    "preparacion" : [
+      "Bate los huevos en un bol y fríelos de manera que termine en una tortilla. Córtala en pequeños cuadritos y déjala a un costado para mezclarlo luego con el arroz.",
+      "Prepara el arroz como acostumbras hacerlo y déjalo también a un lado.",
+      "En una sartén grande con un poco de aceite a fuego intermedio saltea la pechuga de pollo sazonada con sal y cortada en pequeños cuadrados, luego de que ya esté listo el pollo agrega el hot dog picado en rodajas.",
+      "Agrega el kion y ajo, dora esto durante unos segundos.",
+      "Incorpora el pimiento y el arroz. Mezcla y saltea.",
+      "Vierte el sillao y el aceite de ajonjolí. Saltea nuevamente hasta que el arroz esté ahumado.",
+      "Finalmente, añade la tortilla picada en trozos y la cebolla china. Saltea y sirve."
+    ],
+    "region" : "sierra"
+  },
+  {
+    "nombre" : "chaufa-amazonica",
+    "imagen" : "/images/selva/amazonico2.jpg",
+    "titulo" : "Chaufa Amazonica",
+    "descripcion" : "El sabor amazónico indudablemente lo dan el chorizo con la cecina, te animo a sorprender a tu familia con esta receta y me cuentes cómo te quedó",
+    "ingredientes" : [
+      "400 gramos de chorizo amazónico",
+      "400 gramos de cecina",
+      "2 ajíes dulces",
+      "1 cucharada de sillao",
+      "4 tazas de arroz cocido",
+      "1 cucharadita de aceite de ajonjolí",
+      "100 mililitros de aceite vegetal",
+      "8 huevos",
+      "½ taza de cebolla china parte verde",
+      "½ cucharadita de sazonador (ajino-moto)",
+      "4 plátanos bellacos maduros",
+      "Sal al gusto"
+    ],
+    "preparacion" : [
+      "Picar el chorizo y la cecina, dorarlos en una sartén a fuego bajo, para que suelten su sabor.Agregar los ajíes dulces cortados en juliana, evitando quemarlos, junto con el arroz, el sillao y el aceite de ajonjolí.",
+      "Mezclar bien hasta que todo el arroz adquiera un color uniforme.Aparte, en una sartén, hacer una tortilla clásica con los huevos, para luego cortarla en cubitos parejos.",
+      "Añadirlos al preparado del arroz, junto con la cebolla china picada, el sazonador y verificar la sal.Freír los maduros en láminas sobre aceite bien caliente.",
+      "Acompañar el arroz chaufa amazónico con los plátanos fritos como es tradicional en la selva.Esta receta rinde para 4 porciones aproximadamente.",
+      "El tiempo estimado de preparación es de 40 minutos."
+    ],
+    "region" : "selva"
+  },
+  {
+    "nombre" : "humitas",
+    "imagen" : "/images/selva/humitas2.jpg",
+    "titulo" : "Humitas de la Selva",
+    "descripcion" : "Son un plato típico de Perú aunque actualmente de han popularizado en otros países como Bolivia, Argentina, Chile y Ecuador, entre otros.",
+    "ingredientes" : [
+      "6 choclos.",
+      "3 cdas. de margarina.",
+      "1 taza de leche.",
+      "½ taza de azúcar.",
+      "1 cdta. de canela.",
+      "½ taza de pasas.",
+      "Manjarblanco para rellenar.",
+      "Pancas de choclo y pabilo."
+    ],
+    "preparacion" : [
+        "Desgrana y licúa los choclos con la leche. En una olla, derrite la margarina y agrega el choclo licuado, el azúcar, la canela y las pasas.",
+        "Coce a fuego lento moviendo constantemente. Retira del fuego cuando la mezcla adquiera cierta brillantez y deja enfriar.",
+        "En una panca de choclo, coloca una cucharada de masa, agrega manjar blanco al centro y cubre con más masa. Envuelve y amarra con un pabilo.",
+        "Pon pancas de choclo en el fondo de una olla, llena de agua y acomodas encima las humitas.Tapa la olla y cocina a vapor por 20 minutos.",
+        "Recuerda que para suavizar las pancas, debes remojarlas en agua hirviendo."
+    ],
+    "region" : "selva"
+  },
+  {
+    "nombre" : "inchicapi-con-gallina",
+    "imagen" : "/images/selva/inchicapi3.jpg",
+    "titulo" : "Inchicapi con Gallina",
+    "descripcion" : "Es un plato típico de la gastronomía del Perú, específicamente de la selva peruana.​ Precisamente en los departamentos de Loreto, Amazonas, San Martín y Madre de Dios. Gracias a su exquisitez, su aroma, textura y sabor, ha ganado un lugar dentro de la cocina peruana.",
+    "ingredientes" : [
+      "4 presas de gallina",
+      "1 ½ litros de agua",
+      "200 gramos de maní tostado",
+      "1 cucharada de ajo",
+      "1 cebolla",
+      "2 ajíes dulces",
+      "100 gramos de harina de maíz",
+      "12 hojas de sacha culantro",
+      "Palillo o colorante alimenticio al gusto",
+      "Sal al gusto"
+    ],
+    "preparacion" : [
+      "Lo primero que debes hacer es poner a cocinar la gallina con el litro y medio de agua y una pizca de sal.",
+      "Deja hervir por una hora aproximadamente o hasta que las presas estén bien sancochadas. Retíralas de la olla y reserva.",
+      "Por otro lado, pon a licuar el maní tostado, la cebolla, los ajos, los ajíes, el sacha culantro y el palillo.",
+      "A continuación, agrega la mezcla anterior al caldo junto con la harina de maíz previamente disuelta en un poco de agua.",
+      "Remueve constantemente y deja cocinar por unos 8 minutos. Rectifica la sazón.",
+      "Sirve el caldo bien caliente y añade una presa de gallina a cada persona. Acompáñalo con yuca sancochada y huevo sancochado."
+
+    ],
+    "region" : "selva"
+  },
+  {
+    "nombre" : "juane",
+    "imagen" : "/images/selva/juane2.jpg",
+    "titulo" : "Juanes de la Selva",
+    "descripcion" : "Es un plato bandera de la gastronomía peruana amazónica, es originario de la región de Moyobamba. El nombre de Juane proviene de los antiguos peruanos que cocinaban sus alimentos envueltos en hoja de plátano (bijao) a fuego bajo, esta cocción se denominaba “huanar” y con los años la palabra se transformó y dio paso a “juane”",
+    "ingredientes" : [
+      "Agua en cantidad necesaria",
+      "Sal a gusto",
+      "4 presa de gallina",
+      "50 gramos de ajos",
+      "2 unidades de cebolla en cudraditos",
+      "Pimienta a gusto",
+      "Comino a gusto",
+      "1 cucharadita de cúcrcuma",
+      "3 unidades de hojas de laurel",
+      "2 tazas de arroz",
+      "Sacha culantro a gusto",
+      "4 unidades de huevo",
+      "8 unidades de hojas de bijao soasadas (pasadas rápidamente por fuego)",
+      "4 unidades de huevo duro",
+      "8 aceitunas"
+    ],
+    "preparacion" : [
+      "Colocar agua con sal en una olla y llevar al fuego. Añadir las presas de gallina.Dejar sancochar por 45 minutos.",
+      "Retirar la gallina y reservar el caldo.Colocar ajos en una olla.Añadir la cebolla.Salpimentar.",
+      " Añadir comino a gusto, la cúrcuma y las hojas de laurel. Mezclar. Dejar sofreír por unos minutos.",
+      " Añadir las gallina y mezclar. Agregar el caldo de gallina que se reservó al inicio. Dejar cocinar por unos 10 minutos. Retirar la gallina. Agregar el arroz.",
+      " Mezclar y dejar granear el arroz. Añadir el sacha culantro picado finamente sobre el arroz y mezclar. Retirar el arroz del fuego y dejar enfriar en una fuente. Cortar la cocona en cubitos retirándole las pepas. Colocarlo en un bol.",
+      " Aplastar el ají charapita y cortarlo por la mitad. Añadir el ají charapita con la cocona.Agregar la cebolla cortada en cuadraditos, el jugo de limón y sal.Mezclar y reservar.",
+      " Agregar los huevos al arroz y mezclar hasta obtener una especie de masa.Colocar dos hojas de bijado soasadas cruzadas en la mesa. Colocar una porción de arroz sobre ellas.",
+      "Agregar la presa de pollo, 1/2 unidad de huevo duro y las aceitunas. Cerrar todo y amarrar con ayuda de cinta rafia.Llevar a hervir por unos 30 minutos. Retirar del fuego. Servir y abrir el juane. Acompañar con ají de cocona."
+    ],
+    "region" : "selva"
+  },
+  {
+    "nombre" : "anticucho-de-suri",
+    "imagen" : "/images/selva/suri2.jpg",
+    "titulo" : "Anticucho de Suri",
+    "descripcion" : "Es un plato típico de las comunidades amazónicas en el Perú y Colombia Su preparación consta principalmente de la larva del Rhynchophorus palmarum,​ un gorgojo endémico de la cuenca del Amazonas del cual sus crías son denominadas por los pobladores como suri, chiza o mojojoy",
+    "ingredientes" : [
+      "1 cuy entero eviscerado",
+      "1 Kilo de suri",
+      "1 Cucharada de ajos",
+      "1 Taza de aceite vegetal",
+      "4 Plátanos verdes",
+      "Sal a gusto"
+    ],
+    "preparacion" : [
+      "El suri se lava bien, se sazona con ajos, sal, y se le deja reposar unos 20 minutos, luego se fríe en aceite bien caliente.",
+      "A parte se cocina los 4 plátanos verdes, también pueden ser plátanos fritos. ",
+      "Se sirve el suri acompañado del plátano, y una ensalada de cocona, es delicioso.. ",
+      "Otra opción es prerarlo en patarashca, torrejas, brochetas a la parrilla, y otros lo comen vivos."
+    ],
+    "region" : "selva"
+  },
+  {
+    "nombre" : "tacacho-con-cecina",
+    "imagen" : "/images/selva/tacacho2.jpg",
+    "titulo" : "Tacacho con Cecina",
+    "descripcion" : "Es un platillo muy versátil y, de acuerdo al lugar donde se prepare se suele consumir en el desayuno o como plato fuerte para el almuerzo o cena.",
+    "ingredientes" : [
+      "2/3 tz. aceite",
+      "200 g cecina de la selva",
+      "1 plátano verde",
+      "1 cda. manteca de cerdo",
+      "1/2 cda. chicharrón de cerdo",
+      "1 cocona pelada en cubos",
+      "1 cebolla en cubos",
+      "1 ají dulce sin venas ni pepas",
+      "4 ramas de culantro picadas",
+      "1 ají charapita picado"
+    ],
+    "preparacion" : [
+      "Caliente en una sartén a fuego alto y fría la cecina durante tres minutos aproximadamente. Retire y escurra. ",
+      " Golpee la cecina con un mazo de madera, hasta ablandarla. reserve. En la misma sartén fría a fuego medio el plátano hasta que su centro esté totalmente cocido.",
+      " Retire del fuego y triture el plátano con el mazo. Añada la manteca caliente y el chicharrón de cerdo. Sazone con sal y amase hasta integrar.", 
+      " Forme una bola con la masa y reserve el tacacho. Aparte, mezcle en un bol la cocona, la cebolla, el ají dulce, el culantro y el ají charapita. sazone con sal. ",
+      "Sirva la cecina con tacacho y acompañe con la salsa de cocona."   
+    ],
+    "region" : "selva"
+  }
+]

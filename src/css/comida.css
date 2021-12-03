@@ -1,0 +1,82 @@
+.info-container {
+	max-width: 1300px;
+	margin: auto;
+	box-shadow: 0 0 8px 4px var(--bg-primary-color);
+}
+
+.info-comida__comida {
+	display: grid;
+	gap: 15px;
+	justify-items: center;
+	background-color: var(--bg-primary-color);
+	padding: 15px;
+}
+
+
+.info-comida__titulo {
+	text-align: center;
+}
+
+.info-comida__desc {
+	max-width: 700px;
+	text-align: justify;
+	margin: 0 15px;
+}
+
+.info-comida__img {
+	border-radius: 5px;
+	max-width: 450px;
+	max-height: 350px;
+	width: 100%;
+}
+
+.info-comida__lista {
+	list-style: none;
+}
+
+ol.info-comida__lista {
+	display: flex;
+	flex-direction: column;
+	gap: 5px;
+}
+
+.info-comida__ingredientes {
+	display: grid;
+	gap: 5px;
+	background-color: var(--white-second-color);
+	color: var(--bg-primary-color);
+	padding: 1em;
+}
+
+.info-comida__preparacion {
+	display: grid;
+	gap: 5px;
+	padding: 1em;
+}
+
+.info-comida__subtitulo {
+	justify-self: center;
+}
+
+.info-comida__footer {
+	background-color: var(--bg-primary-color);
+	margin-top: 15px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.info-comida__links {
+	display: flex;
+	flex-direction: column;
+	margin-top: 10px;
+	gap: 10px;
+}
+
+.info-comida__link {
+	color: var(--white-primary-color);
+}
+
+.info-comida__link:hover {
+	color: var(--white-second-color);
+}
